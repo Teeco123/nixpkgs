@@ -26514,8 +26514,8 @@
     githubId = 15378834;
   };
   teeco123 = {
-    name = "Kacper Gajko";
-    email = "kacper.gajko1@icloud.com";
+    name = "Teeco";
+    email = "teeco.dev@proton.me";
     github = "teeco123";
     githubId = 116846689;
   };
